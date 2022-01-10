@@ -1,9 +1,14 @@
 {
     "name": "@rodrigodornelles/volt-bootstrap-5-dashboard",
-    "version": "1.4.2",
+    "version": "1.4.1.1",
     "description": "Volt - Bootstrap 5 Dashboard",
     "main": "gulpfile.js",
     "author": "Themesberg",
+    "private": false,
+    "publishConfig": {
+      "access": "public",
+      "registry": "https://registry.npmjs.org/"
+    },
     "keywords": [
         "bootstrap",
         "bootstrap5",
