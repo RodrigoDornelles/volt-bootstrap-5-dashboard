@@ -1,6 +1,6 @@
 {
     "name": "@rodrigodornelles/volt-bootstrap-5-dashboard",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "description": "Volt - Bootstrap 5 Dashboard",
     "main": "gulpfile.js",
     "author": "Themesberg",
